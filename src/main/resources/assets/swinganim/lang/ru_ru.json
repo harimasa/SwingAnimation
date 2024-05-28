@@ -1,0 +1,15 @@
+{
+  "anim.title": "View Model - Настройки Анимаций",
+  "anim.enabledAnim": "Включить Анимации?",
+  "anim.enabledMainHand": "Включить на основную руку?",
+  "anim.enabledOffHand": "Включить на второстепенную руку?",
+  "anim.slowAnim": "Включить медленную анимацию?",
+  "anim.slowAnimValue": "Скорость анимации",
+  "anim.key": "Бинд для открытия конфиг'а анимаций",
+  "anim.affectoffhand": "Влиять на второстепенную руку?",
+  "anim.positionX": "Позиция по X",
+  "anim.positionY": "Позиция по Y",
+  "anim.positionZ": "Позиция по Z",
+  "anim.scaleoff": "Размер второстепенной руки",
+  "anim.scale": "Размер основной руки"
+}

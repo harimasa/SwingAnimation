@@ -1,0 +1,15 @@
+{
+  "anim.title": "View Model - Animations Settings",
+  "anim.enabledAnim": "Enabled Animations?",
+  "anim.enabledMainHand": "Enabled on Main Hand?",
+  "anim.enabledOffHand": "Enabled on Off Hand?",
+  "anim.slowAnim": "Enable slow animation?",
+  "anim.slowAnimValue": "Anim Speed",
+  "anim.key": "KeyBind for opening the Anim config",
+  "anim.affectoffhand": "Affect offHand?",
+  "anim.positionX": "Pos to X",
+  "anim.positionY": "Pos to Y",
+  "anim.positionZ": "Pos to Z",
+  "anim.scaleoff": "Scale offhand",
+  "anim.scale": "Scale Main Hand"
+}
